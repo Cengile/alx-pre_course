@@ -1,1 +1,2 @@
--i s/"ALX" / "ALX School"/g
+#!/bin/bash
+"ALX School is so cool!"
