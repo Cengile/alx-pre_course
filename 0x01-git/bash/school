@@ -1,1 +1,2 @@
--i s/"School" / "The school is open!"/g
+#!/bin/bash
+"The school is open!"
