@@ -1,1 +1,1 @@
-School
+-i s/"School" / "The school is open!"/g
